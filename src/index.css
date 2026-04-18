@@ -46,3 +46,7 @@
 .hover-lift {
   @apply transition-transform duration-500 hover:-translate-y-2;
 }
+
+.no-scroll {
+  overflow: hidden;
+}
